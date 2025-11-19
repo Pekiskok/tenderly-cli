@@ -1,6 +1,6 @@
 module github.com/tenderly/tenderly-cli
 
-go 1.18
+go 1.24.0
 
 require (
 	github.com/badoux/checkmail v0.0.0-20181210160741-9661bd69e9ad
@@ -63,10 +63,10 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
-	golang.org/x/net v0.4.0 // indirect
-	golang.org/x/sys v0.3.0 // indirect
-	golang.org/x/text v0.5.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	gopkg.in/ini.v1 v1.66.2 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
